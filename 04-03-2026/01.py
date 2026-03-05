@@ -1,3 +1,9 @@
+# ================================
+# ACHEI! Senha: 443929292
+# Tempo Serial (T=1): 408.5372 segundos
+# Tentativas: 443929292
+# ================================
+
 import hashlib
 import time
 
